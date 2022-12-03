@@ -1,0 +1,23 @@
+{
+  "name": "finall",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hovhannes.M",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.5.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hovhannes83870912/Result.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hovhannes83870912/Result/issues"
+  },
+  "homepage": "https://github.com/Hovhannes83870912/Result#readme",
+  "description": ""
+}
